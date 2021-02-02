@@ -1,5 +1,5 @@
 import React from 'react'
-import { CurrencyAmount, Fraction, JSBI } from '@lychees/uniscam-sdk'
+import { CurrencyAmount, Fraction, JSBI } from '@frankwei98/unisave-sdk-oktest'
 
 const CURRENCY_AMOUNT_MIN = new Fraction(JSBI.BigInt(1), JSBI.BigInt(1000000))
 

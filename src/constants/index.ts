@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-non-null-assertion */
-import { ChainId, JSBI, Percent, Token, WETH } from '@lychees/uniscam-sdk'
+import { ChainId, JSBI, Percent, Token, WETH } from '@frankwei98/unisave-sdk-oktest'
 import { AbstractConnector } from '@web3-react/abstract-connector'
 
 import { fortmatic, injected, portis, walletconnect, walletlink } from '../connectors'

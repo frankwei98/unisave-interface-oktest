@@ -13,7 +13,7 @@ import Circle from '../../assets/images/blue-loader.svg'
 import { useVoteCallback, useUserVotes } from '../../state/governance/hooks'
 import { getScanLink, getScanName } from '../../utils'
 import { ExternalLink } from '../../theme/components'
-import { TokenAmount } from '@lychees/uniscam-sdk'
+import { TokenAmount } from '@frankwei98/unisave-sdk-oktest'
 
 const ContentWrapper = styled(AutoColumn)`
   width: 100%;

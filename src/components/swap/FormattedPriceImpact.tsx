@@ -1,4 +1,4 @@
-import { Percent } from '@lychees/uniscam-sdk'
+import { Percent } from '@frankwei98/unisave-sdk-oktest'
 import React from 'react'
 import { ONE_BIPS } from '../../constants'
 import { warningSeverity } from '../../utils/prices'

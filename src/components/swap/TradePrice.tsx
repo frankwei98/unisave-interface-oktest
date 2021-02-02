@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-non-null-assertion */
 import React from 'react'
-import { Price } from '@lychees/uniscam-sdk'
+import { Price } from '@frankwei98/unisave-sdk-oktest'
 import { useContext } from 'react'
 import { Repeat } from 'react-feather'
 import { Text } from 'rebass'

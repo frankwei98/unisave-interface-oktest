@@ -1,4 +1,4 @@
-import { Trade, TradeType } from '@lychees/uniscam-sdk'
+import { Trade, TradeType } from '@frankwei98/unisave-sdk-oktest'
 import React, { useContext } from 'react'
 import styled, { ThemeContext } from 'styled-components'
 import { useTranslation } from 'react-i18next'

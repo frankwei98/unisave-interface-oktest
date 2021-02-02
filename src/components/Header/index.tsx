@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-non-null-assertion */
-import { ChainId, TokenAmount, ETHER } from '@lychees/uniscam-sdk'
+import { ChainId, TokenAmount, ETHER } from '@frankwei98/unisave-sdk-oktest'
 import React, { useState } from 'react'
 import { Text } from 'rebass'
 import { NavLink } from 'react-router-dom'
@@ -298,6 +298,7 @@ const NETWORK_LABELS: { [chainId in ChainId]?: string } = {
   [ChainId.BSC_MAINNET]: 'BSC Mainnet',
   [ChainId.BSC_TESTNET]: 'BSC Testnet',
   [ChainId.HECO_MAINNET]: 'HECO Mainnet',
+  [ChainId.HECO_TESTNET]: 'HECO Testnet',
   [ChainId.HECO_TESTNET]: 'HECO Testnet',
   [ChainId.MATIC_MAINNET]: 'Matic Mainnet'
 }

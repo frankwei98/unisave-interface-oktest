@@ -1,4 +1,4 @@
-import { ChainId } from '@lychees/uniscam-sdk'
+import { ChainId } from '@frankwei98/unisave-sdk-oktest'
 import useNetworkType from './useNetworkType'
 
 export const useInfoLink = (chainId?: ChainId): string => {
