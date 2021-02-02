@@ -12,7 +12,7 @@ const MULTICALL_NETWORKS: { [chainId in ChainId]: string } = {
   [ChainId.HECO_MAINNET]: '0x56171094a15B8caC4314C0F8930100B939503bd9',
   [ChainId.HECO_TESTNET]: '0xD1dbc88E6a94053B11dA07CA3E5CE24B282d3d32',
   // @XXX: Deployed by Frank, ready when uniscam-sdk have ChainId of OKChain Testnet
-  // [ChainId.OKCHAIN_TESTNET]: '0xbed5513c2fd4eae41bad3aff77ec9ef372aaf578',
+  [ChainId.OKCHAIN_TEST]: '0xbed5513c2fd4eae41bad3aff77ec9ef372aaf578',
   [ChainId.MATIC_MAINNET]: '0x95028E5B8a734bb7E2071F96De89BABe75be9C8E'
 }
 

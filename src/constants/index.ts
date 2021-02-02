@@ -103,6 +103,7 @@ export const UNI: { [chainId in ChainId]: Token } = {
   ),
   [ChainId.HECO_MAINNET]: null!, // TODO: Add Heco mainnet y3d Token
   [ChainId.HECO_TESTNET]: null!, // TODO: Add Heco mainnet y3d Token
+  [ChainId.OKCHAIN_TEST]: null!, // TODO: Add Heco mainnet y3d Token
   [ChainId.MATIC_MAINNET]: null! // TODO: Add Matic mainnet y3d Token
 }
 
@@ -121,6 +122,7 @@ const WETH_ONLY: ChainTokenList = {
   [ChainId.BSC_TESTNET]: [WETH[ChainId.BSC_TESTNET]],
   [ChainId.HECO_MAINNET]: [WETH[ChainId.HECO_MAINNET]],
   [ChainId.HECO_TESTNET]: [WETH[ChainId.HECO_TESTNET]],
+  [ChainId.OKCHAIN_TEST]: [WETH[ChainId.OKCHAIN_TEST]],
   [ChainId.MATIC_MAINNET]: [WETH[ChainId.MATIC_MAINNET]]
 }
 

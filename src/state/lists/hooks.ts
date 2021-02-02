@@ -41,6 +41,7 @@ const EMPTY_LIST: TokenAddressMap = {
   [ChainId.BSC_TESTNET]: {},
   [ChainId.HECO_MAINNET]: {},
   [ChainId.HECO_TESTNET]: {},
+  [ChainId.OKCHAIN_TEST]: {},
   [ChainId.MATIC_MAINNET]: {}
 }
 

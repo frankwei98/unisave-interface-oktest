@@ -13,6 +13,7 @@ const V1_FACTORY_ADDRESSES: { [chainId in ChainId]: string } = {
   [ChainId.BSC_TESTNET]: '',
   [ChainId.HECO_TESTNET]: '',
   [ChainId.HECO_MAINNET]: '',
+  [ChainId.OKCHAIN_TEST]: '',
   [ChainId.MATIC_MAINNET]: ''
 }
 

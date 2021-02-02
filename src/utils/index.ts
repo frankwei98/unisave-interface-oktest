@@ -27,6 +27,7 @@ const ETHERSCAN_PREFIXES: { [chainId in ChainId]: string } = {
   [ChainId.BSC_TESTNET]: 'testnet.bscscan.com',
   [ChainId.HECO_MAINNET]: 'scan.hecochain.com',
   [ChainId.HECO_TESTNET]: 'scan-testnet.hecochain.com',
+  [ChainId.OKCHAIN_TEST]: 'oklink.com/okexchain-test/',
   [ChainId.MATIC_MAINNET]: 'explorer-mainnet.maticvigil.com'
 }
 
@@ -65,6 +66,7 @@ const SCAN_NAMES: { [chainId in ChainId]: string } = {
   [ChainId.BSC_TESTNET]: 'BscScan',
   [ChainId.HECO_MAINNET]: 'HecoScan',
   [ChainId.HECO_TESTNET]: 'HecoScan',
+  [ChainId.OKCHAIN_TEST]: 'OKLink',
   [ChainId.MATIC_MAINNET]: 'Matic Explorer'
 }
 
