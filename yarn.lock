@@ -1681,10 +1681,10 @@
     "@ethersproject/properties" "^5.0.3"
     "@ethersproject/strings" "^5.0.4"
 
-"@frankwei98/unisave-sdk-oktest@3.0.30-test.3":
-  version "3.0.30-test.3"
-  resolved "https://registry.yarnpkg.com/@frankwei98/unisave-sdk-oktest/-/unisave-sdk-oktest-3.0.30-test.3.tgz#0effd046016d4e70855476542fe01c30c2ca87fe"
-  integrity sha512-4IwVOUFKnSIJf7xP9s9Z49GngD01Vwc/vw1dbaPtrcoYLxvOB+eySe9iF8ksxirRnVaN088TfBY8briDBtkJQw==
+"@frankwei98/unisave-sdk-oktest@3.0.30":
+  version "3.0.30"
+  resolved "https://registry.yarnpkg.com/@frankwei98/unisave-sdk-oktest/-/unisave-sdk-oktest-3.0.30.tgz#37ae0414c90c21f99081e92f780d991c9d7ef74a"
+  integrity sha512-ltMGJwOpLXc54OUZHXoAd5e3epHVycFGmx2zV13lT/6D9FOECkiBq1HvRhEeIYqDHceH1ol4He+BhyoLg61Zpg==
   dependencies:
     "@uniswap/v2-core" "^1.0.0"
     big.js "^5.2.2"
