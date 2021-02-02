@@ -1681,6 +1681,19 @@
     "@ethersproject/properties" "^5.0.3"
     "@ethersproject/strings" "^5.0.4"
 
+"@frankwei98/unisave-sdk-oktest@3.0.30-test.3":
+  version "3.0.30-test.3"
+  resolved "https://registry.yarnpkg.com/@frankwei98/unisave-sdk-oktest/-/unisave-sdk-oktest-3.0.30-test.3.tgz#0effd046016d4e70855476542fe01c30c2ca87fe"
+  integrity sha512-4IwVOUFKnSIJf7xP9s9Z49GngD01Vwc/vw1dbaPtrcoYLxvOB+eySe9iF8ksxirRnVaN088TfBY8briDBtkJQw==
+  dependencies:
+    "@uniswap/v2-core" "^1.0.0"
+    big.js "^5.2.2"
+    decimal.js-light "^2.5.0"
+    jsbi "^3.1.1"
+    tiny-invariant "^1.1.0"
+    tiny-warning "^1.0.3"
+    toformat "^2.0.0"
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
@@ -2017,19 +2030,6 @@
   dependencies:
     "@babel/runtime" "^7.7.2"
     core-js "^3.4.1"
-
-"@lychees/uniscam-sdk@3.0.30-test.3":
-  version "3.0.30-test.3"
-  resolved "https://registry.yarnpkg.com/@lychees/uniscam-sdk/-/uniscam-sdk-3.0.30-test.3.tgz#25f0336db0661adbbff4f36a7caa1b00b8b1ad9d"
-  integrity sha512-NW8RBcko9hOx8D8Q5Q7rWzcZLloyFoZ/8+PxGn98C9cqrieyEPchN9WNfRogKyNi4ZgAgH4PShtWrToMvd8lLQ==
-  dependencies:
-    "@uniswap/v2-core" "^1.0.0"
-    big.js "^5.2.2"
-    decimal.js-light "^2.5.0"
-    jsbi "^3.1.1"
-    tiny-invariant "^1.1.0"
-    tiny-warning "^1.0.3"
-    toformat "^2.0.0"
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
