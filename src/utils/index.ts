@@ -27,7 +27,7 @@ const ETHERSCAN_PREFIXES: { [chainId in ChainId]: string } = {
   [ChainId.BSC_TESTNET]: 'testnet.bscscan.com',
   [ChainId.HECO_MAINNET]: 'scan.hecochain.com',
   [ChainId.HECO_TESTNET]: 'scan-testnet.hecochain.com',
-  [ChainId.OKCHAIN_TEST]: 'oklink.com/okexchain-test/',
+  [ChainId.OKCHAIN_TEST]: 'oklink.com/okexchain-test',
   [ChainId.MATIC_MAINNET]: 'explorer-mainnet.maticvigil.com'
 }
 
